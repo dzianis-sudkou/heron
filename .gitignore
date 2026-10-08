@@ -1,0 +1,8 @@
+# FOLDERS to ignore
+.venv/
+__pycache__/
+
+# FILES to ignore
+results.txt
+pyproject.toml
+
